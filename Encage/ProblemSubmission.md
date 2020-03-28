@@ -77,7 +77,7 @@ can be read and written based on what you need to do.
  So that you don't make mistakes while developing
 the game.
 #### Optional
-Improving current state of the code is appreciated
+<p>Improving current state of the code is appreciated</p>
 ---
 <!-- Leave this part as it is -->
 #### Reminders
