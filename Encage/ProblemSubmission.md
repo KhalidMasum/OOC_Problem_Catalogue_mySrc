@@ -35,7 +35,8 @@ a menu named "Settings" from where an user can modify some game options.
 Everyone in your team agreed that there shall be only one .cfg file to store the settings,
 namely "Settings.cfg".
 
-You are very proud to introduce this new file. However your teammate Zahid
+You are very proud to introduce this new file. The current state of the code can be 
+found <a href = "https://github.com/KhalidMasum/OOC_Problem_Catalogue_mySrc/tree/master/Encage">Here</a>. Your teammate Zahid
 tells you, "It's pretty cool! We can easily add many cool features in our game now." 
 
 You are celebrating your victory but in few days you started to notice strange things.
