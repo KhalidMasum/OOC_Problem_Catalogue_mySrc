@@ -76,20 +76,8 @@ Design the code in such a way that only certain part of Settings.cfg
 can be read and written based on what you need to do.
  So that you don't make mistakes while developing
 the game.
-####Optional
+#### Optional
 Improving current state of the code is appreciated
-## Notes
-<!-- 
-Is there something else you need to say? Anything!
-This section is optional.
-
--->
-## Source
-<!-- 
-Did you collect the problem from another source? Please mention with a link if possible.
-This section is optional.
--->
-
 ---
 <!-- Leave this part as it is -->
 #### Reminders
