@@ -1,28 +1,3 @@
-<!-- 
-!! DO NOT REMOVE !!
-The HTML comment like this is for guidelines to editor/creator of a problem. 
-You can remove these when you are done writing up the problem. However, if you see a "!! DO NOT REMOVE !!"  at the beginning of a comment block, do not remove that block.
-You can leave comments for future editors, you may want to leave a "!! DO NOT REMOVE !!" message in that case.
--->
-
-<!-- 
-**Use Labels**
-There are five difficulty levels: very easy, easy, medium, hard, very hard. Mention exactly one that represents the difficulty level of your problem.
-There are some labels representing topics, example - Design Patterns, SOLID, refactoring and more. Use any number of such labels that are related to your problem.
-Using correct labels will help people finding the problem they need easily.
--->
-
-<!--
-Please feel free to change order of the sections to better suit your problem.
--->
-
-### Related Problems
-<!-- 
-Link the related problems. Especially consider the following cases:
-* Is it required/recommended to solve another problem before trying this one?
-* Is solving another problem make solving this one easy?
-* Is this a variant of another problem?
--->
 
 ## Overview
 <!-- 
