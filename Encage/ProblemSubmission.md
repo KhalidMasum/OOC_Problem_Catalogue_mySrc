@@ -40,21 +40,13 @@ tells you, "It's pretty cool! We can easily add many cool features in our game n
 
 You are celebrating your victory but in few days you started to notice strange things.
 Making mistakes has become pretty common! 
-
 One day Rahim comes and tell you,
 "It's not our fault you know. We shouldn't even be able to access cursor settings when 
 working with Blood. There are many other similar cases".
 
-It certainly is a big problem. And you know that you have to fix it fast.
-
+It certainly is a big problem. And you know that you have to fix it fast. 
 So you have decided to change the code. So that your team members can 'define' 
 what needs to be accessed when accessing the .cfg is necessary.
-
-
-
-For now you have created a Settings class to interact with the .cfg file.
-However it seems that the static variables in it has created a big possibility 
-of error.
 
 ## Example
 <!-- 
